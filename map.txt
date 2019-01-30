@@ -1,0 +1,20 @@
+3
+CSI 257
+computer science classroom
+2
+chair
+something to sit on
+computer
+useful tool
+-1,1,-1,-1,-1,-1 /* north, south, east, west, up, down */
+hall
+connects rooms
+0
+0,-1,2,-1,-1,-1 
+broadway
+a bigger hall
+1
+table 
+place to put stuff
+-1,-1,-1,1,-1,-1
+
